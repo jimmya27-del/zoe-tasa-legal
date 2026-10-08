@@ -1,11 +1,11 @@
 # Zoe TASA
 
-Pagina informativa de la aplicacion Zoe TASA: tasas de cambio de Venezuela en la pantalla de tu telefono.
+Página informativa de la aplicación Zoe TASA: tasas de cambio de Venezuela en la pantalla de tu teléfono.
 
 ## Documentos
 
-- [Politica de Privacidad](privacidad.md)
-- [Terminos de Uso](terminos.md)
+- [Política de Privacidad](privacidad.md)
+- [Términos de Uso](terminos.md)
 
 ## Contacto
 

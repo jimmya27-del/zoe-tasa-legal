@@ -1,6 +1,6 @@
 # Política de Privacidad - Zoe TASA
 
-última actualización: 7 de octubre de 2026.
+Última actualización: 7 de octubre de 2026.
 
 ## 1. Responsable
 
